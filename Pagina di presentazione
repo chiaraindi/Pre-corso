@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chiara Indirli</title>
+</head>
+<body>
+    <h1>Chiara Indirli</h1>
+    <h2>Una vita di avventure</h2>
+    <img src="https://media.licdn.com/dms/image/v2/D4D03AQEV-IovQWowlQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1707984485931?e=2147483647&v=beta&t=zkxjMhYjI9UDDx2R1Vzd169Qjfh6Ed5i9UwAN8cgLWY" alt="Immagine di Chiara Indirli" />
+    <p>Vivo e lavoro a Milano ma ho il cuore pugliese. Sono appassionata di:</p>
+    <ul>
+        <li>Surf e windsurf</li>
+        <li>Bikepacking</li>
+        <li>Tecnologia e digital marketing</li>
+    </ul>
+    <p><a href="https://www.linkedin.com/in/chiaraindirli/">Visita il mio profilo LinkedIn</a></p>
+    <p class="highlight">Ci vediamo al corso!</p>
+</body>
+</html>
