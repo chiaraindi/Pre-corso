@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang= "it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <h1> 🎵 Spot Music 🎵 </h1>
+    <h3> La nuova piattaforma per musica streaming </h3>
+<div>
+    <p>
+    Registrati ora e ottieni il
+    <span  style="color: brown;"
+    >30% di sconto sull'abbonamento premium </span>
+    </p>
+</div>
+<form onsubmit="alert(Grazie per esserti iscritto!')">
+<div>
+    <input type="text" placeholder="Il tuo nome" />
+    <input type="text" placeholder="Il tuo cognome" />
+</div>
+    <input type="email" placeholder="La tua email" />
+    <input type="password" placeholder="La tua password" />
+<div>
+    <input type="date" placeholder="La tua data di nascita"/>
+    <input type="tel" placeholder="Il tuo numero di telefono" />
+</div>
+    <p>
+    Raccontaci i tuoi gusti musicali. Seleziona una o più risposte
+    </p>
+<div>
+    <label>
+    <input type="checkbox" id="option1" name="option1"/> 
+    <label for="option1">Rock</label>
+</div>
+<div>
+    <label>
+        <input type="checkbox" id="option2" name="option2"/>
+        <label for="option2">Pop</label>
+</div>
+<div>
+    <label>
+        <input type="checkbox" id=option3 name="option3" />
+        <label for="option3"> Classic</label>
+</div>
+<div>
+    <p>
+    <span style="color: blue;">
+    Perfetto! Un ultimo passaggio per completare l'iscrizione. Spunta la casella sotto 👇
+    </span>
+    </p>
+</div>
+<div>
+<label>
+    <input type="radio" id="contratto" name="contratto" />
+    <label for="contratto"> Accetto i termini e condizioni previsti da Spot Music </label>
+</div>
+<div>
+    <button type="submit">Iscriviti ora </button>
+</div>
+</form>
+</body>
+</html>
